@@ -1,0 +1,12 @@
+# Arquivos de notebook Jupyter
+.ipynb_checkpoints/
+.ipynb_cache/
+
+# Ambientes virtuais e pacotes de bibliotecas
+venv/
+env/
+*.pyc
+*.pyo
+__pycache__/
+
+
