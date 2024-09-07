@@ -2,11 +2,8 @@
 .ipynb_checkpoints/
 .ipynb_cache/
 
-# Ambientes virtuais e pacotes de bibliotecas
-venv/
-env/
+# Ambientes virtuais e arquivos de cache
+.venv/
 *.pyc
 *.pyo
 __pycache__/
-
-
